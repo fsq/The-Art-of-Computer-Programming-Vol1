@@ -3,7 +3,7 @@
 Skipped some trivial ones. 
 ## 1.2 Mathematical Preliminaries
 ### 1.2.1 Mathematical Induction
-	2.  The deduction is assuming $a^{(n-1)-1}=a^{n-2}=1$. So prove of $P(n+1)$ depends on $P(n)$ and $P(n-1)$. 
+2.  The deduction is assuming $a^{(n-1)-1}=a^{n-2}=1$. So prove of $P(n+1)$ depends on $P(n)$ and $P(n-1)$. 
 But $P(2)$ is false.
 
 	7. The proof should begin with $n=2$.  
