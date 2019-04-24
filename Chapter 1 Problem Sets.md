@@ -53,4 +53,28 @@ $$
 S(n) = (-1)^{n+1}\frac{n}{4n^2+1}
 $$
 
+### 1.2.3 Sums and Products
 
+1. $-a_1$
+
+3. Not a permutation mapping.
+
+9. No
+
+15/16. 
+$$
+  \sum_{j=0}^n jx^j = x\sum_{j=0}^n jx^{j-1} = x\sum_{j+1=0}^n (j+1)x^j = 
+  x \sum_{j=0}^n (j+1)x^j
+$$
+
+17. $|S|$
+
+20.
+$$
+  9\times\sum_{i=1}^n i10^{n-i}+n+1 = \sum_{i=0}^{n} 10^i
+$$
+$$
+  (b-1)\times\sum_{i=0}^n (n-i)b^i+n+1 = \sum_{i=0}^n b^i
+$$
+
+25. Can't use an existing var name.
