@@ -7,7 +7,7 @@
 
 # 1.1 Algorithms
 
-​ Five features of algorithms:
+ Five features of algorithms:
 
 - Finiteness
 - Definiteness
@@ -59,3 +59,4 @@ $$
                                     \sum_{R(j)\ and \ S(j)} a_j
 $$
 
+#Chapter2  
