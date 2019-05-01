@@ -60,3 +60,16 @@ $$
 $$
 
 #Chapter2  
+
+# 2.1. Introduction
+
+# 2.2. Linear Lists
+
+# 2.3. Trees	
+
+# 2.4. Multilinked Structures
+
+# 2.5. Dynamic Storage Allocation
+
+
+
